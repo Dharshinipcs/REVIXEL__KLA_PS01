@@ -7,7 +7,7 @@
 
 ## Overview
 
-Final Experiment-B solution for AI-based restoration of degraded semiconductor inspection images.
+Final Model B solution for AI-based restoration of degraded semiconductor inspection images.
 
 The model takes degraded 128x128 grayscale LR images and produces restored 256x256 grayscale images.
 
